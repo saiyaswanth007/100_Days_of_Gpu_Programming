@@ -1,1 +1,1 @@
-# 100_Dya_of_Gpu_Programming
+# 100_Days_of_Gpu_Programming
